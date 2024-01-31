@@ -1,0 +1,9 @@
+[submodule "external/json"]
+	path = external/json
+	url = https://github.com/nlohmann/json
+[submodule "external/backward-cpp"]
+	path = external/backward-cpp
+	url = https://github.com/bombela/backward-cpp
+[submodule "external/argparse"]
+	path = external/argparse
+	url = https://github.com/p-ranav/argparse
